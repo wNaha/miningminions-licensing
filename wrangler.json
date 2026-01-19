@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "miningminions-licensing",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ac123030-05e6-44a9-9c77-072b8940e2a9",
+			"database_name": "MININGMINIONS_LICENSES"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
